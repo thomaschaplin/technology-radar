@@ -26,5 +26,12 @@
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "We continue to see teams run into trouble using JSF ..."
+  },
+  {
+    "name": "Java",
+    "ring": "hold",
+    "quadrant": "something",
+    "isNew": "TRUE",
+    "description": "We continue to see teams run into trouble using JSF ..."
   }
 ]
